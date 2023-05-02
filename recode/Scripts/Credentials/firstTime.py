@@ -1,0 +1,2 @@
+def everythingforfirsttime():
+    print("idiot")
