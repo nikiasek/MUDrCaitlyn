@@ -1,6 +1,0 @@
-main.py 
-    bude spouštět věci před startem.
-    poté obstará zbytek
-
-champions.py
-    bude daaný spouštěč
