@@ -1,7 +1,7 @@
 import tkinter as tk
 import ttkbootstrap as ttk
 from os import path
-from Professor-caitlyn---python.recode.Credentials.firstTime import signup 
+from MUDrCaitlyn.recode.Credentials.firstTime import signup 
 
 
 def credential():
