@@ -1,2 +1,2 @@
-def everythingforfirsttime():
+def signup():
     print("idiot")
