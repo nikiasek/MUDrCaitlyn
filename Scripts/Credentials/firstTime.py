@@ -1,2 +1,0 @@
-def signup():
-    print("idiot")
